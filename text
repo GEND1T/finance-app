@@ -1,0 +1,2 @@
+npx tailwindcss -i ./src/input.css -o ./dist/output.css --watchnpx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+uvicorn main:app --reload
